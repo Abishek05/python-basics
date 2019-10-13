@@ -15,4 +15,3 @@ number = 4
 for i in list:
     if i > number:
         print(i)
-        
